@@ -1,0 +1,15 @@
+{
+  "name": "nadesiko3-hoge",
+  "version": "0.0.1",
+  "description": "nadesiko3 plugin : test functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
