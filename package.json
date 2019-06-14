@@ -1,6 +1,6 @@
 {
   "name": "nadesiko3-hoge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nadesiko3 plugin : test functions",
   "main": "index.js",
   "scripts": {
