@@ -4,10 +4,9 @@
   "description": "nadesiko3 plugin : template functions",
   "main": "nadesiko3-hoge.js",
   "scripts": {
-    "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "kujirahand",
   "license": "ISC",
   "devDependencies": {
   }
