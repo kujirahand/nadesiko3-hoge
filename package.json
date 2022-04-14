@@ -1,8 +1,8 @@
 {
   "name": "nadesiko3-hoge",
-  "version": "0.0.3",
-  "description": "nadesiko3 plugin : test functions",
-  "main": "index.js",
+  "version": "0.0.4",
+  "description": "nadesiko3 plugin : template functions",
+  "main": "nadesiko3-hoge.js",
   "scripts": {
     "test": "mocha"
   },
@@ -12,3 +12,4 @@
   "devDependencies": {
   }
 }
+

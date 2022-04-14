@@ -35,5 +35,11 @@ const PluginHoge = {
 }
 
 // モジュールのエクスポート(必ず必要)
-module.exports = PluginHoge
+// scriptタグで取り込んだ時、自動で登録する
+if (typeof (navigator) === 'object' && typeof (navigator.nako3) === 'object') {
+  navigator.nako3.addPluginObject('PluginHoge', PluginHoge)
+} else {
+  module.exports = PluginHoge
+}
+
 
