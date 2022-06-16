@@ -1,13 +1,13 @@
 {
   "name": "nadesiko3-hoge",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "nadesiko3 plugin : template functions",
   "main": "nadesiko3-hoge.js",
   "scripts": {
   },
   "keywords": [],
   "author": "kujirahand",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
   }
 }

@@ -1,9 +1,9 @@
 /**
- * なでしこ3 プラグイン (CommonJS版)
+ * なでしこ3 プラグイン (ESModules編)
  * nadesiko3-hoge
  * プラグインをテストするためのプラグイン
  */
-const PluginHoge = {
+default export {
   '初期化': {
     type: 'func',
     josi: [],
@@ -33,13 +33,3 @@ const PluginHoge = {
     }
   }
 }
-
-// モジュールのエクスポート(必ず必要)
-// scriptタグで取り込んだ時、自動で登録する
-if (typeof (navigator) === 'object' && typeof (navigator.nako3) === 'object') {
-  navigator.nako3.addPluginObject('PluginHoge', PluginHoge)
-} else {
-  module.exports = PluginHoge
-}
-
-
