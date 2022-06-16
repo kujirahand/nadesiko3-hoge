@@ -6,5 +6,5 @@
 
 ## プラグインの作り方
 
-- https%3A//nadesi.com/v3/doc/go.php%3F1177
+- [プラグインの作り方](https://nadesi.com/v3/doc/go.php%3F1177)
 
