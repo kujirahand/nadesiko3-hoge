@@ -9,7 +9,7 @@ const PluginHoge = {
     josi: [],
     fn: function (sys) {
       // ここにプラグインの初期化処理
-      sys.__varslist[0]['HOGEバージョン'] = '0.0.1'
+      sys.__varslist[0]['HOGEバージョン'] = '0.0.2'
     }
   },
   
