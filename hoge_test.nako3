@@ -1,0 +1,13 @@
+!「./nadesiko3-hoge.mjs」を取り込む
+
+「HOGEバージョン={HOGEバージョン}」を表示。
+
+3と8をHOGE足して表示。
+
+3回
+　　「テストA」とHOGE表示。
+　　HOGE待つ
+　　「テストB」とHOGE表示。
+　　HOGE待機
+ここまで。
+

@@ -1,6 +1,6 @@
 {
   "name": "nadesiko3-hoge",
-  "version": "0.0.7",
+  "version": "3.6.15",
   "description": "nadesiko3 plugin : template functions",
   "main": "nadesiko3-hoge.js",
   "scripts": {
